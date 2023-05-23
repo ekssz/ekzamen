@@ -1,1 +1,1 @@
-# ekzamen.github.io
+# ekzamen
